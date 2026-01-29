@@ -1,0 +1,38 @@
+$date
+  Wed Jan 28 15:49:04 2026
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module test $end
+$var integer 32 ! counter $end
+$upscope $end
+$enddefinitions $end
+#0
+b0 !
+#10000000
+b1 !
+#20000000
+b10 !
+#30000000
+b11 !
+#40000000
+b100 !
+#50000000
+b101 !
+#60000000
+b110 !
+#70000000
+b111 !
+#80000000
+b1000 !
+#90000000
+b1001 !
+#100000000
+b1010 !
+#110000000
