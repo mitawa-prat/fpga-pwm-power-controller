@@ -72,7 +72,7 @@ This project implements a complete digital control system for power converters, 
 
 ## 📁 Project Structure
 ```
-D:\FPGA_PROJ\
+X:\FPGA_PROJ\
 ├── rtl/                          # VHDL design files
 │   ├── pwm_generator.vhdl        # PWM generation core
 │   ├── interlock.vhdl            # Safety interlock system
@@ -111,7 +111,7 @@ D:\FPGA_PROJ\
 
 #### 1. Clone/Download the Project
 ```bash
-git clone <your-repo-url>
+git clone <[repo-url](https://github.com/mitawa-prat/fpga-pwm-power-controller.git)>
 cd FPGA_PROJ
 ```
 
@@ -314,12 +314,12 @@ The design philosophy prioritizes **correctness and safety over performance**, m
 
 ## 👤 Author
 
-**[Your Name]**
+**Saini**
 
 - 🎓 Created as a demonstration of FPGA design and safety-critical systems
 - 💼 Portfolio project for accelerator electronics/power converter control positions
-- 🔗 LinkedIn: [(https://www.linkedin.com/in/sainiprateek/)]
-- 📧 Email: [prateek7up@gmail.com]
+- 🔗 LinkedIn: [saini](https://www.linkedin.com/in/sainiprateek/)
+- 📧 Email: [mitawa](prateek7up@gmail.com)
 
 ---
 
@@ -343,10 +343,11 @@ This project is available for educational and portfolio purposes.
 
 Questions, suggestions, or found a bug? Feel free to:
 - Open an issue on GitHub
-- Contact me via [prateek7up@gmail.com/https://www.linkedin.com/in/sainiprateek/]
+- Contact me via [email](prateek7up@gmail.com) / [linkedin](https://www.linkedin.com/in/sainiprateek/)
 - Submit a pull request
 
 ---
 
 
 **⭐ If you find this project useful, please consider starring the repository!**
+
