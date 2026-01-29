@@ -17,7 +17,6 @@ This project implements a complete digital control system for power converters, 
 
 **Target Application:** Magnet power supply control for particle accelerators (inspired by CERN's converter control requirements)
 
-![System Architecture](docs/block_diagram.png)
 ## Block Diagram
 ```
                       ┌────────────────────────────────────┐
@@ -348,5 +347,6 @@ Questions, suggestions, or found a bug? Feel free to:
 - Submit a pull request
 
 ---
+
 
 **⭐ If you find this project useful, please consider starring the repository!**
